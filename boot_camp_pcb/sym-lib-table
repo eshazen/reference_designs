@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "my_Arduino")(type "KiCad")(uri "${KIPRJMOD}/my_Arduino.kicad_sym")(options "")(descr ""))
+  (lib (name "my_sparkfun_serial_7seg")(type "KiCad")(uri "${KIPRJMOD}/my_sparkfun_serial_7seg.kicad_sym")(options "")(descr ""))
+  (lib (name "my_humid_sensor")(type "KiCad")(uri "${KIPRJMOD}/my_humid_sensor.kicad_sym")(options "")(descr ""))
+  (lib (name "misc_bom")(type "KiCad")(uri "${KIPRJMOD}/misc_bom.kicad_sym")(options "")(descr ""))
+)
