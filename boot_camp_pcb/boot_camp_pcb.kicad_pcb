@@ -677,7 +677,7 @@
     (pad "12" thru_hole circle (at 15.24 -10.16) (size 2.286 2.286) (drill 1.651) (layers "*.Cu" "*.Mask") (tstamp 6b0f16bb-187f-4cf9-87dc-fe79ec9da9b6))
     (pad "13" thru_hole circle (at 15.24 10.16) (size 2.286 2.286) (drill 1.651) (layers "*.Cu" "*.Mask") (tstamp 34bd4640-0568-4496-9c4e-2959d8729f67))
     (pad "14" thru_hole circle (at -15.24 10.16) (size 2.286 2.286) (drill 1.651) (layers "*.Cu" "*.Mask") (tstamp 5e324400-fbde-418a-a1a3-2e323ab88e9e))
-    (model "/home/hazen/work/talks/designs/mech/sparkfun-serial-led.wrl"
+    (model "../mech/sparkfun-serial-led.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 0.3937 0.3937 0.3937))
       (rotate (xyz 0 0 0))
@@ -1009,12 +1009,12 @@
       (net 8 "Net-(A1-D6)") (pinfunction "1") (pintype "input") (tstamp 47c8164e-57d2-4a86-923c-3f088544d116))
     (pad "2" thru_hole circle (at 5 0) (size 1.524 1.524) (drill 1.016) (layers "*.Cu" "*.Mask")
       (net 9 "Net-(A1-D7)") (pinfunction "2") (pintype "input") (tstamp a6b77400-5dfe-410f-888f-5d893e56d11e))
-    (model "/home/hazen/work/talks/designs/mech/speaker.wrl"
+    (model "../mech/speaker.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 0.3937 0.3937 0.3937))
       (rotate (xyz 0 0 0))
     )
-    (model "/home/hazen/work/talks/designs/mech/speaker.step" hide
+    (model "../mech/speaker.step" hide
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
